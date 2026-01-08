@@ -1,0 +1,27 @@
+{
+  "name": "42-atlasflow-gateway-api",
+  "version": "1.0.0",
+  "description": "The **Gateway API** is the **entry point of the AtlasFlow platform**, handling all incoming shipment requests and routing them to the appropriate microservices.  \r It ensures smooth communication between clients, tracking, billing, and other platform services.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Holuphilix/42-AtlasFlow-Gateway-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Holuphilix/42-AtlasFlow-Gateway-API/issues"
+  },
+  "homepage": "https://github.com/Holuphilix/42-AtlasFlow-Gateway-API#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
